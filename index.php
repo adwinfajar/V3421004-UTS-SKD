@@ -37,7 +37,7 @@
                 <button class="btn btn-dark d-grid gap-2" style="background-color: #06283D;">Daftar</button>
             </form>
         </div>
-        <p class="text-center"><small>Silahkan <a href="login.php" class="text-decoration-none">login</a> bagi yang sudah punya
+        <p class="text-center"><small>Silahkan <a href="login.php" class="text-decoration-none">Login</a> bagi yang sudah punya
                 akun</small>
         </p>
     </div>
